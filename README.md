@@ -1,4 +1,4 @@
-# Data_analysis_project_for_Awesome_Chocolates_Company_using_Excel.
+# Data_analysis_project_for_Awesome_Chocolates_Company_with_Excel.
 
 Welcome to the Awesome Chocolates Data Analysis Project repository. This report provides comprehensive information regarding the employee names, Age, name, Rating, Department, DOJ, Salary & Country of Awesome Chocolates company hailing from New Zealand and India Employees.
 
